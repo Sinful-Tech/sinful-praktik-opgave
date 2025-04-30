@@ -1,7 +1,7 @@
 [
     { "id": 1, "item": "Vibrator", "quantity": 2, "state": "new" },
     { "id": 2, "item": "Lingerie Set", "quantity": 1, "state": "new" },
-    { "id": 3, "item": "Massage Oil", "quantity": 3, "state": "new" },
+    { "id": 3, "item": "Massage Oil", "quantity": 8, "state": "new" },
     { "id": 4, "item": "Blindfold", "quantity": 5, "state": "new" },
     { "id": 5, "item": "Handcuffs", "quantity": 2, "state": "new" },
     { "id": 6, "item": "Lubricant", "quantity": 4, "state": "new" },
@@ -10,5 +10,7 @@
     { "id": 9, "item": "Massage Candle", "quantity": 3, "state": "new" },
     { "id": 10, "item": "Bondage Rope", "quantity": 1, "state": "new" },
     { "id": 11, "item": "Couples Vibrator", "quantity": 1, "state": "new" },
-    { "id": 12, "item": "Cock Ring", "quantity": 5, "state": "new" }
+    { "id": 12, "item": "Cock Ring", "quantity": 5, "state": "new" },
+    { "id": 13, "item": "Dildo", "quantity": 2, "state": "new" },
+    { "id": 14, "item": "Other", "quantity": 4, "state": "new" }
   ]
