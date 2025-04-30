@@ -33,7 +33,7 @@ def process(location):
 app = FastAPI()
 @app.get("/")
 
-async def root(): 
+async def somethingotherthanroot(): 
     # Read new orders from JSON file
     with open('new_orders.json', 'r') as file:
         new_orders = json.load(file)
