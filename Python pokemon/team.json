@@ -1,74 +1,73 @@
 [
   {
-    "name": "kingler",
+    "name": "gastly",
     "types": [
-      "water"
+      "ghost",
+      "poison"
     ],
-    "hp_stat": 55,
+    "hp_stat": 30,
     "ability_names": [
-      "hyper-cutter",
-      "shell-armor",
-      "sheer-force"
+      "levitate"
     ]
   },
   {
-    "name": "blastoise",
+    "name": "mr-mime",
     "types": [
-      "water"
+      "psychic",
+      "fairy"
     ],
-    "hp_stat": 79,
+    "hp_stat": 40,
     "ability_names": [
-      "torrent",
-      "rain-dish"
+      "soundproof",
+      "filter",
+      "technician"
     ]
   },
   {
-    "name": "goldeen",
+    "name": "nidorino",
     "types": [
-      "water"
+      "poison"
     ],
-    "hp_stat": 45,
+    "hp_stat": 61,
     "ability_names": [
-      "swift-swim",
-      "water-veil",
-      "lightning-rod"
+      "poison-point",
+      "rivalry",
+      "hustle"
     ]
   },
   {
-    "name": "cubone",
+    "name": "dragonite",
     "types": [
-      "ground"
+      "dragon",
+      "flying"
     ],
-    "hp_stat": 50,
+    "hp_stat": 91,
     "ability_names": [
-      "rock-head",
-      "lightning-rod",
-      "battle-armor"
+      "inner-focus",
+      "multiscale"
     ]
   },
   {
-    "name": "omastar",
+    "name": "dragonite",
     "types": [
-      "rock",
-      "water"
+      "dragon",
+      "flying"
     ],
-    "hp_stat": 70,
+    "hp_stat": 91,
     "ability_names": [
-      "swift-swim",
-      "shell-armor",
-      "weak-armor"
+      "inner-focus",
+      "multiscale"
     ]
   },
   {
-    "name": "poliwhirl",
+    "name": "vaporeon",
     "types": [
       "water"
     ],
-    "hp_stat": 65,
+    "hp_stat": 130,
     "ability_names": [
       "water-absorb",
-      "damp",
-      "swift-swim"
+      "hydration"
     ]
   }
 ]
