@@ -33,6 +33,12 @@ for _ in range(6):
 
 team_data = [poke.model_dump() for poke in team]
 
+#Sort pokemons based on hp_stat
+def get_pokemon(element):
+    return element['hp_stat']
+
+team_data.sort(key=get_pokemon)
+
 # Save to a file
 with open("Python pokemon/team.json", "w") as file:
     json.dump(team_data, file, indent=2)
