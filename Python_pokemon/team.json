@@ -1,0 +1,72 @@
+[
+  {
+    "name": "vulpix",
+    "types": [
+      "fire"
+    ],
+    "hp_stat": 38,
+    "ability_names": [
+      "flash-fire",
+      "drought"
+    ]
+  },
+  {
+    "name": "growlithe",
+    "types": [
+      "fire"
+    ],
+    "hp_stat": 55,
+    "ability_names": [
+      "intimidate",
+      "flash-fire",
+      "justified"
+    ]
+  },
+  {
+    "name": "magmar",
+    "types": [
+      "fire"
+    ],
+    "hp_stat": 65,
+    "ability_names": [
+      "flame-body",
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "rapidash",
+    "types": [
+      "fire"
+    ],
+    "hp_stat": 65,
+    "ability_names": [
+      "run-away",
+      "flash-fire",
+      "flame-body"
+    ]
+  },
+  {
+    "name": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp_stat": 90,
+    "ability_names": [
+      "pressure",
+      "flame-body"
+    ]
+  },
+  {
+    "name": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp_stat": 90,
+    "ability_names": [
+      "pressure",
+      "flame-body"
+    ]
+  }
+]
