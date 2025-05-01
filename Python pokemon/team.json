@@ -1,0 +1,74 @@
+[
+  {
+    "name": "kingler",
+    "types": [
+      "water"
+    ],
+    "hp_stat": 55,
+    "ability_names": [
+      "hyper-cutter",
+      "shell-armor",
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "blastoise",
+    "types": [
+      "water"
+    ],
+    "hp_stat": 79,
+    "ability_names": [
+      "torrent",
+      "rain-dish"
+    ]
+  },
+  {
+    "name": "goldeen",
+    "types": [
+      "water"
+    ],
+    "hp_stat": 45,
+    "ability_names": [
+      "swift-swim",
+      "water-veil",
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "cubone",
+    "types": [
+      "ground"
+    ],
+    "hp_stat": 50,
+    "ability_names": [
+      "rock-head",
+      "lightning-rod",
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "omastar",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp_stat": 70,
+    "ability_names": [
+      "swift-swim",
+      "shell-armor",
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "poliwhirl",
+    "types": [
+      "water"
+    ],
+    "hp_stat": 65,
+    "ability_names": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ]
+  }
+]
