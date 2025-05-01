@@ -37,7 +37,7 @@ team_data = [poke.model_dump() for poke in team]
 def get_pokemon(element):
     return element['hp_stat']
 
-team_data.sort(key=get_pokemon)
+team_data.sort(reverse=False, key=get_pokemon)
 
 # Save to a file
 with open("Python pokemon/team.json", "w") as file:
