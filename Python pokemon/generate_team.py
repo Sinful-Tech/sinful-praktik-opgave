@@ -44,3 +44,14 @@ with open("Python pokemon/team.json", "w") as file:
     json.dump(team_data, file, indent=2)
 
 print(f"Generated team: {[poke.name for poke in team]}")
+
+fighters = random.sample(team, 2)
+print(f"Generated fighters: {[poke.name for poke in fighters]}")
+
+#Battle Simulator
+if fighters[0].hp_stat > fighters[1].hp_stat:
+    print(f"{fighters[0].name} is the Winner, with {fighters[0].hp_stat - fighters[1].hp_stat} health left")
+elif fighters[0].hp_stat == fighters[1].hp_stat:
+    print(f"It's a draw between {fighters[0].name} and {fighters[1].name}")
+else:
+    print(f"{fighters[1].name} is the Winner, with {fighters[1].hp_stat - fighters[0].hp_stat} health left")
